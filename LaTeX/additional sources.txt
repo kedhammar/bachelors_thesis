@@ -1,0 +1,13 @@
+@misc{john,
+	title={Personal communication with project advisor},
+	author={John Löfblom},
+	year={2019}
+}
+
+@online{flow,
+	title = {Introduction to flow cytometry},
+	url = {https://www.abcam.com/protocols/introduction-to-flow-cytometry},
+	language = {english},
+	organization = {abcam},
+	urldate = {2010-09-30},
+}
